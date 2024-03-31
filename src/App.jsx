@@ -1,4 +1,4 @@
-import styles from "/Users/danny/Desktop/WOGHQ/HOOBANK/src/style.js";
+import styles from "./style.js";
 import { Billing, Business, CardDeal, Clients, CTA, Footer, Navbar, Stats, Testimonials, Hero } from "./components";
 
 const App = () => (
