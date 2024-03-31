@@ -1,5 +1,5 @@
 import styles from "../style.js";
-import { discount, robot } from '/Users/danny/Desktop/WOGHQ/HOOBANK/src/assets/index.js';
+import { discount, robot } from '../assets';
 import GetStarted from "./GetStarted.jsx";
 
 const Hero = () => {
