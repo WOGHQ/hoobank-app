@@ -1,7 +1,7 @@
 import { useState } from "react";
 
-import { close, logo, menu } from "/Users/danny/Desktop/WOGHQ/HOOBANK/src/assets/index.js";
-import { navLinks } from "/Users/danny/Desktop/WOGHQ/HOOBANK/src/constants/index.js";
+import { close, logo, menu } from "../assets";
+import { navLinks } from "../constants";
 
 const Navbar = () => {
 const [toggle, setToggle] = useState(false);
